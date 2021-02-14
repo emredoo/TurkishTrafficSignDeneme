@@ -1,0 +1,1 @@
+#tabelalar eklendi, tüm annotationlar yolo formatındadır.
