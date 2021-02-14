@@ -1,0 +1,1 @@
+#degisiklikler tarandi ve onaylandı.
